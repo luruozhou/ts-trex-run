@@ -12,6 +12,7 @@ module.exports = {
     'genetic-nn': ['./apps/genetic-nn.js'],
     nn: ['./apps/nn.js'],
     nnm: ['./apps/nnm.js'],
+    template: ['./apps/template.js'],
     random: ['./apps/random.js']
   },
   output: {
